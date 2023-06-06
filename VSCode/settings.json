@@ -17,5 +17,9 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.formatOnSave": true,
         "editor.tabSize": 2
+    },
+    "[html]": {
+        "editor.suggest.insertMode": "replace",
+        "editor.wordWrap": "on"
     }
 }
